@@ -1,12 +1,10 @@
-<!-- Perfil público: descripción de proyectos sin código, datos ni capturas institucionales privadas. -->
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/kvieds-dark.png" />
     <img src="assets/kvieds-light.png" width="100%" alt="kvieds: Andrés Caviedes, ingeniero de sistemas" />
   </picture>
 </p>
-
-<h2 align="center">Andrés Caviedes</h2>
 
 <p align="center">
   <strong>Construyo herramientas que convierten procesos complejos en experiencias claras, útiles y verificables.</strong><br />
