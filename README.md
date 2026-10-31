@@ -1,6 +1,9 @@
 <!-- Perfil público: descripción de proyectos sin código, datos ni capturas institucionales privadas. -->
 <p align="center">
-  <img src="assets/banner-kvieds.jpg" width="100%" alt="kvieds: Andrés Caviedes, ingeniero de sistemas" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/kvieds-dark.png" />
+    <img src="assets/kvieds-light.png" width="100%" alt="kvieds: Andrés Caviedes, ingeniero de sistemas" />
+  </picture>
 </p>
 
 <h2 align="center">Andrés Caviedes</h2>
